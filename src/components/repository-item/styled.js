@@ -13,9 +13,21 @@ line-height: 30px;
 
 
 h2{
+    display: block; 
+    color: grey;
+    overflow: hidden;
+    text-overflow: ellipsis;
    font-weight: bold;
+   white-space: nowrap;
+
 }
 a{
+    display: block; 
+    white-space: nowrap;
     color: purple;
+    overflow: hidden;
+    text-overflow: ellipsis;
+   
 }
+
 `
