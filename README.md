@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# Git Engine Search
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto de uma Engine de Buscas de Usuarios no GitHub atraves dos seus nomes de usuarios na plataforma, que retorna seus repositorios e seus projetos favoritos.
+
+Este Projeto foi criado em React utilizando [Link](https://github.com/facebook/create-react-app).
 
 ## For Run:
 
 `npm start`
 
 ## Live Page:
+
+https://search-git-engine-6ixms1r9o-erickystn.vercel.app/
+
 
