@@ -1,4 +1,4 @@
-# Git Engine Search
+# Git Engine Search 🔍
 
 Projeto de uma Engine de Buscas de Usuarios no GitHub atraves dos seus nomes de usuarios na plataforma, que retorna seus repositorios e seus projetos favoritos.
 
